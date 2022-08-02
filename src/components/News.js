@@ -9,8 +9,15 @@ export default function News(props) {
     const capital = (str) => {
         return str.charAt(0).toUpperCase() + str.slice(1);
     }
-    document.title = `${capital(props.category)} | Daily News`
+     if (props.category==='general') {
+       
+        document.title="Home | Daily News"; 
+    }
+    else{
 
+        document.title = `${capital(props.category)} | Daily News`
+    }
+    
     const [articles, setArticles] = useState([])
     const [page, setPage] = useState(1)
     const [loading, setLoading] = useState(false)
