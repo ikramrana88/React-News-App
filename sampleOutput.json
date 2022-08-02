@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Long March 5B: Debris from Chinese rocket falls back to Earth",
+    "description": "China says most of the rocket fragments burnt during the re-entry over the Sulu Sea.",
+    "url": "http://www.bbc.co.uk/news/science-environment-62333546",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12A63/production/_126078367_gettyimages-1411033012-1.jpg",
+    "publishedAt": "2022-07-30T23:07:21.2314082Z",
+    "content": "Chinese rocket debris has crashed to Earth over the Indian and Pacific oceans, US and Chinese officials say.\r\nChina's space agency said most remains of the Long March 5 burnt in the atmosphere, ident… [+3085 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Kansas: The state where abortion is on the ballot",
+    "description": "Opposing sides are in a close race to decide whether women in Kansas have the right to abortion.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-62338118",
+    "urlToImage": "https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1",
+    "publishedAt": "2022-07-30T23:07:18.5737195Z",
+    "content": "By Tara McKelveyBBC News, Kansas\r\nOn a recent Sunday in Kansas, a red-tailed hawk soared over a Catholic church at dusk. Mass had ended, and clouds were rolling in. Inside the foyer, a slideshow feat… [+6955 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Beach body ad edited out my prosthetic leg - model",
+    "description": "Sian Green-Lord said the Spanish government campaign also used her photos without permission.",
+    "url": "http://www.bbc.co.uk/news/world-europe-62365796",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B3A2/production/_126068954_beachbody.jpg",
+    "publishedAt": "2022-07-30T22:37:23.4164504Z",
+    "content": "By Matt MurphyBBC News\r\nA British model says she was left furious after the Spanish government used her image without permission and edited out her prosthetic leg.\r\nThe photo were used as part of a b… [+2260 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US President Joe Biden tests positive for Covid after 'rebound' infection",
+    "description": "The US president is not experiencing symptoms, but will isolate again after a fresh positive test.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-62361884",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/70F9/production/_126112982_microsoftteams-image.png",
+    "publishedAt": "2022-07-30T20:22:22.6053219Z",
+    "content": "US President Joe Biden has tested positive for Covid-19 again, in what has been described as a \"rebound\" infection by his doctor. \r\nThe 79-year-old first contracted the virus on 21 July, when he was … [+599 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Italy: Outcry over killing of African migrant in town centre",
+    "description": "The brutal assault on Nigerian trader Alika Ogorchukwu in broad daylight was captured on video.",
+    "url": "http://www.bbc.co.uk/news/world-62361744",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E8E5/production/_126112695_marche.png",
+    "publishedAt": "2022-07-30T19:22:20.1838301Z",
+    "content": "By Maria ZaccaroBBC News\r\nThe death of a migrant who was attacked in broad daylight in central Italy has sparked outrage.\r\nThe assault on the Nigerian street trader by another man in Civitanova March… [+1268 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ukraine condemns Russia's 'humiliating death' tweet after prison attack",
+    "description": "The Russian embassy in the UK tweeted that Ukrainian Azov soldiers deserved execution by hanging.",
+    "url": "http://www.bbc.co.uk/news/world-europe-62363225",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4E8F/production/_126111102_mediaitem126111101.jpg",
+    "publishedAt": "2022-07-30T15:52:22.6516269Z",
+    "content": "Ukraine has labelled Russia a \"terrorist state\" after Moscow's UK embassy tweeted that Ukrainian Azov battalion soldiers deserved a \"humiliating death\" by hanging.\r\nThe embassy tweet came after more … [+4803 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Iraq: Muqtada al-Sadr supporters storm parliament again",
+    "description": "At least 60 people are injured as demonstrators again break into Iraq's parliament building.",
+    "url": "http://www.bbc.co.uk/news/world-62361737",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E02E/production/_126109375_gettyimages-1242192647.jpg",
+    "publishedAt": "2022-07-30T12:07:21.8084993Z",
+    "content": "At least 60 people have been injured as protesters stormed the Iraqi parliament for the second time in a week.\r\nThe supporters of cleric Muqtada al-Sadr again breached the high-security green zone in… [+1841 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Rusty Bowers defied Donald Trump - what happens now?",
+    "description": "The political fate of a \"nobody\" Republican will reveal a lot about the ex-president's future too.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-62338119",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E524/production/_126106685_bowers1.jpg",
+    "publishedAt": "2022-07-30T11:52:21.5270593Z",
+    "content": "By Anthony ZurcherNorth America reporter\r\nOn Tuesday, Republicans in Arizona will choose between a Trump-endorsed candidate, and one who testified against the former president before the 6 January co… [+11837 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Russia's Gazprom halts gas supplies to Latvia",
+    "description": "Latvia is the latest EU member to have its Russian gas supplies cut off in the Ukraine crisis.",
+    "url": "http://www.bbc.co.uk/news/world-europe-62359890",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1480C/production/_126108938_mediaitem126108937.jpg",
+    "publishedAt": "2022-07-30T11:07:20.4957769Z",
+    "content": "Russian energy giant Gazprom says it has suspended gas supplies to Latvia - the latest EU country to experience such action amid tensions over Ukraine.\r\nGazprom accused Latvia of violating conditions… [+1930 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Kentucky: 15 dead in flash floods that followed heavy rain",
+    "description": "The state governor said the death toll is expected to rise amid ongoing search and rescue efforts.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-62351166",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D885/production/_126092455_gettyimages-1242171586.jpg",
+    "publishedAt": "2022-07-29T14:37:22.2344002Z",
+    "content": "At least 15 people have died due to historic flash flooding caused by torrential rains in eastern Kentucky, the US state's governor has said.\r\nKentucky Governor Andy Beshear said that he expects the … [+1163 chars]"
+    }
+    ]
+    }
